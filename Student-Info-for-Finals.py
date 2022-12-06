@@ -69,8 +69,8 @@ def update_student():
     print("----------------------")
 
   def delete_student():                                                      
-  del_index = input("Enter index(From 0) to Delete student record: ")
-  del record[int(del_index)]                                                
-  print("----------------------")
-  print("Student Data Deleted successfully")
-  print("----------------------")
+    del_index = input("Enter index(From 0) to Delete student record: ")
+    del record[int(del_index)]                                                
+    print("----------------------")
+    print("Student Data Deleted successfully")
+    print("----------------------")
