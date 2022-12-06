@@ -74,3 +74,37 @@ def update_student():
     print("----------------------")
     print("Student Data Deleted successfully")
     print("----------------------")
+
+  while True:  
+                                                  
+  print("PRESS 1 : TO ADD STUDENT INFORMATION.")
+  
+  if len(record) >= 1:                                          
+   print("PRESS 2 : TO DELETE STUDENT INFORMATION.")
+  
+  if len(record) >= 1:
+   print("PRESS 3 : TO UPDATE STUDENT INFORMATION.")
+
+  if len(record) >= 1: 
+   print("PRESS 4 : TO DISPLAY STUDENT INFORMATION.")
+
+  if len(record) >= 1:
+   print("PRESS 5 : TO EXIT SYSTEM.")
+  
+  inp = input("ENTER YOUR OPTION: ")                                     
+
+  if int(inp) == 1:
+    new_student()                              
+ 
+  elif int(inp) == 2 and len(record) >= 1 :
+    delete_student()                           
+    
+  elif int(inp) == 3 and len(record) >= 1:
+    update_student()                          
+    
+  elif int(inp) == 4 and len(record) >= 1:
+    display_student()                          
+
+  else:
+    print("Invalid input!")
+  continue
