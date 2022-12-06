@@ -12,9 +12,8 @@ a. Add student
     
 b.  Delete a student
 
-    - allow the user to delete a student from the database through Last Name or Student Number.
-    - if more than one student matches the result, ask the user to enter the Student Number of the student to be deleted
-
+    - allow the user to delete a student from inside the record by selecting index(starts from 0)
+    
 c. Update
 
     - allow a user to update the existing records.
