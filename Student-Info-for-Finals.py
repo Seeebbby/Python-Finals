@@ -67,5 +67,3 @@ def update_student():
     print("----------------------")
     print("Student Data updated successfully")
     print("----------------------")
-
-    
