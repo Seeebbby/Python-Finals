@@ -38,4 +38,4 @@ GROUP MEMBERS
 Video presentation link:
     https://youtu.be/Om8EVFLAF4g
 
-![image](https://user-images.githubusercontent.com/113688027/206855423-ed332fb2-a1df-44aa-9355-e1e8ff77d039.png)
+![image](https://user-images.githubusercontent.com/113688027/206855457-98eb3667-9b57-43e0-8542-383d4ec28498.png)
