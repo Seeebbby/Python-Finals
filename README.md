@@ -36,4 +36,4 @@ GROUP MEMBERS
         -Geriemae Anne Miranda
         
 Video presentation link:
-    https://drive.google.com/drive/folders/1TXhsa5DgFHxW4BTNBQFPQ-2eol3XT2si?usp=share_link
+    https://youtu.be/Om8EVFLAF4g
